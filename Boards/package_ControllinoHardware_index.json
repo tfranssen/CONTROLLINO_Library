@@ -31,11 +31,6 @@
               "packager": "arduino",
               "name": "avr-gcc",
               "version": "4.8.1-arduino5"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.0.1-arduino5"
             }
           ]
         },
@@ -62,11 +57,6 @@
               "packager": "arduino",
               "name": "avr-gcc",
               "version": "4.8.1-arduino5"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.0.1-arduino5"
             }
           ]
         },
@@ -93,11 +83,6 @@
 							"packager": "arduino",
 							"name": "avr-gcc",
 							"version": "4.9.2-atmel3.5.3-arduino2"
-						},
-						{
-							"packager": "arduino",
-							"name": "avrdude",
-							"version": "6.3.0-arduino8"
 						}
 					]
 				},
@@ -124,11 +109,6 @@
               "packager": "arduino",
               "name": "avr-gcc",
               "version": "4.9.2-atmel3.5.3-arduino2"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.3.0-arduino8"
             }
           ]
         },
@@ -155,11 +135,6 @@
               "packager": "arduino",
               "name": "avr-gcc",
               "version": "4.9.2-atmel3.5.3-arduino2"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.3.0-arduino8"
             }
           ]
         },
@@ -186,11 +161,6 @@
               "packager": "arduino",
               "name": "avr-gcc",
               "version": "4.9.2-atmel3.5.3-arduino2"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.3.0-arduino8"
             }
           ]
         },
@@ -217,11 +187,6 @@
               "packager": "arduino",
               "name": "avr-gcc",
               "version": "7.3.0-atmel3.6.1-arduino7"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.3.0-arduino8"
             }
           ]
         } 
